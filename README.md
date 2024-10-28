@@ -13,8 +13,8 @@ To implement key exchange between users using Diffie Hellman algorithm.
 
 4.	Similarly, secret keys for both users are calculated.
 
-## NAME: SANJAY G
-## REG_NO: 212222230131
+## NAME: MUKESH P
+## REG_NO: 212222240068
 
 ## PROGRAM:
 ```
